@@ -2,24 +2,13 @@
 
 > **Read-only archive of released versions of zerosonesfun/flarum-log.** Not for installation: use [Packagist](https://packagist.org/packages/zerosonesfun/flarum-log) or the [upstream repository](https://github.com/zerosonesfun/flarum-log).
 
-**65** versions archived · Latest: [`2.0.1`](https://github.com/flarchive/zerosonesfun-flarum-log/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`2.0.2`](https://github.com/flarchive/zerosonesfun-flarum-log/tree/archive/v2.0.2) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `1.0` | 2026-03-07 | `^1.8.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-log/tree/archive/v1.0) |
-| `1.0.1` | 2026-03-07 | `^1.8.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-log/tree/archive/v1.0.1) |
-| `1.0.10` | 2026-03-07 | `^1.8.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-log/tree/archive/v1.0.10) |
-| `1.0.11` | 2026-03-07 | `^1.8.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-log/tree/archive/v1.0.11) |
-| `1.0.12` | 2026-03-07 | `^1.8.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-log/tree/archive/v1.0.12) |
-| `1.0.13` | 2026-03-07 | `^1.8.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-log/tree/archive/v1.0.13) |
-| `1.0.14` | 2026-03-07 | `^1.8.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-log/tree/archive/v1.0.14) |
-| `1.0.15` | 2026-03-07 | `^1.8.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-log/tree/archive/v1.0.15) |
-| `1.0.16` | 2026-03-08 | `^1.8.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-log/tree/archive/v1.0.16) |
-| `1.0.17` | 2026-03-08 | `^1.8.0` | [Browse](https://github.com/flarchive/zerosonesfun-flarum-log/tree/archive/v1.0.17) |
-
-[View all 65 versions](https://github.com/flarchive/zerosonesfun-flarum-log/tags)
+| — | — | — | — |
 
 Catalog entry: [packages/zerosonesfun-flarum-log.json](https://github.com/flarchive/archive-index/blob/main/packages/zerosonesfun-flarum-log.json)
 
