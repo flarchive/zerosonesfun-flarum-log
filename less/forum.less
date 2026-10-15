@@ -1,0 +1,23 @@
+/* Drink Log extension - button visibility by breakpoint */
+
+/* Desktop: show button in sidebar only; hide drawer copy in top bar */
+@media (min-width: 769px) {
+  .App-header .DrinkLogButton--drawer {
+    display: none;
+  }
+}
+
+/* Mobile: show button in drawer only (under search); hide sidebar copy */
+@media (max-width: 768px) {
+  .IndexPage .DrinkLogButton:not(.DrinkLogButton--drawer) {
+    display: none;
+  }
+}
+
+/* Variety autocomplete: gray ghost text at caret (visible but clearly suggestion) */
+.VarietyAutocomplete-ghost {
+  font-size: 14px;
+  color: #666;
+  pointer-events: auto;
+  cursor: pointer;
+}
